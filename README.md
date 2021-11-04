@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Mahmudul Hasan! </h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' style="border-radius:50%" src="https://raw.githubusercontent.com/bdlogicalerror/bdlogicalerror/master/my_photo.jpg" width="230">
 
 <p><em>Founder at <a href="http://www.bytewix.com">ByteWix</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
