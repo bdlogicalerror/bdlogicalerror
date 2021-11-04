@@ -15,6 +15,7 @@
 - ⚙️ React, Svelte, Vue, Laravel, Ardunio, Flask, Symphony, CI
 - 👁️ SASS, CSS, Stylus, Tailwind Css,BootStrap,Vuetify
 - 💽 MySQL, SQL, Mongo, Influx DB
+- 🚢 Docker
 - 🐧 Linux Server administration
 - 🔥 Internet of Things
 
@@ -54,6 +55,7 @@ class About extends Me
             IoT::class,
             ReactNative::class,
             TailwindCss::class,
+            Docker::class,
             Aws::class,
         ];
     }
