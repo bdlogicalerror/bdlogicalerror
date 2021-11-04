@@ -12,9 +12,10 @@
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP, Python, C++
-- ⚙️ React, Svelte, Vue, Laravel,Ardunio
+- ⚙️ React, Svelte, Vue, Laravel, Ardunio, Flask, Symphony, CI
 - 👁️ SASS, CSS, Stylus, Tailwind Css,BootStrap,Vuetify
 - 💽 MySQL, SQL, Mongo, Influx DB
+- 🐧 Linux Server administration
 - 🔥 Internet of Things
 
 <p align = "center">
