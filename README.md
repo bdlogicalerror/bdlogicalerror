@@ -61,3 +61,4 @@ class About extends Me
     }
 }
 ```
+  <img src="https://activity-graph.herokuapp.com/graph?username=bdlogicalerror&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
