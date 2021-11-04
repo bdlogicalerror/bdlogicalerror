@@ -1,16 +1,55 @@
-### Hi there 👋
+<h2>Hi there, I'm Mahmudul Hasan! </h2>
 
-<!--
-**bdlogicalerror/bdlogicalerror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+<p><em>Founder at <a href="http://www.bytewix.com">ByteWix</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub followers](https://img.shields.io/github/followers/bdlogicalerror?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=bdlogicalerror.bdlogicalerror)
+
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP
+- ⚙️ React, Svelte, Vue, Laravel
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
+
+```php
+<?php
+
+namespace Mahmudul;
+
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'ByteWix',
+                'position' => 'Founder'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Typescript::class,
+            Laravel::class,
+            Vuejs::class,
+            ReactNative::class,
+            TailwindCss::class,
+            Aws::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
+```
