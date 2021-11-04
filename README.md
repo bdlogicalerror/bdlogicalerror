@@ -15,6 +15,13 @@
 - ⚙️ React, Svelte, Vue, Laravel
 - 👁️ SASS, CSS, Stylus
 - 💽 MySQL, SQL, Mongo
+- 🔥 Internet of Things
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=bdlogicalerror&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=bdlogicalerror&theme=dark&hide_border=true" width = 400>
+</p>
+
 
 ```php
 <?php
@@ -41,6 +48,7 @@ class About extends Me
             Typescript::class,
             Laravel::class,
             Vuejs::class,
+            IoT::class,
             ReactNative::class,
             TailwindCss::class,
             Aws::class,
