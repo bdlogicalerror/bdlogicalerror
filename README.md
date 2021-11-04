@@ -11,10 +11,10 @@
 
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP
-- ⚙️ React, Svelte, Vue, Laravel
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 TypeScript, JavaScript, PHP, Python, C++
+- ⚙️ React, Svelte, Vue, Laravel,Ardunio
+- 👁️ SASS, CSS, Stylus, Tailwind Css,BootStrap,Vuetify
+- 💽 MySQL, SQL, Mongo, Influx DB
 - 🔥 Internet of Things
 
 <p align = "center">
@@ -47,6 +47,8 @@ class About extends Me
             Javascript::class,
             Typescript::class,
             Laravel::class,
+            Python::class,
+            CPP::class,
             Vuejs::class,
             IoT::class,
             ReactNative::class,
