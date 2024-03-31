@@ -11,7 +11,7 @@
 
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript,Dart, PHP, Python, C++
+- 👨‍💻 TypeScript, JavaScript,Dart, PHP, Python, Dart
 - 🚀 Flutter, React Native
 - ⚙️ React, Svelte, Vue, Laravel, Ardunio, Flask, Symphony, CI
 - 👁️ SASS, CSS, Stylus, Tailwind Css,BootStrap,Vuetify
