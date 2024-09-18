@@ -11,7 +11,7 @@
 
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript,Dart, PHP, Python, Dart
+- 👨‍💻 Dart, TypeScript, JavaScript,Dart, PHP, Python
 - 🚀 Flutter, React Native
 - ⚙️ React, Svelte, Vue, Laravel, Ardunio, Flask, Symphony, CI
 - 👁️ SASS, CSS, Stylus, Tailwind Css,BootStrap,Vuetify
@@ -46,6 +46,8 @@ class About extends Me
     public function getDailyKnowledge(): array
     {
         return [
+            Dart::class,
+            Flutter::class,
             Php::class,
             Javascript::class,
             Typescript::class,
