@@ -1,75 +1,28 @@
-<h2>Hi there, I'm Mahmudul Hasan! </h2>
+# 👋 Hi, I'm Mahmudul Hasan
 
-<img align='right' style="border-radius:50%" src="https://raw.githubusercontent.com/bdlogicalerror/bdlogicalerror/master/my_photo.jpg" width="230">
+**Full-Stack Developer | Laravel + Vue.js + Python | Automation & APIs**
 
-<p><em>Founder at <a href="http://www.bytewix.com">ByteWix</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+📍 Dhaka, Bangladesh | 🚀 Building since 2016 | 🤝 Open to remote opportunities
 
+## 🛠 Tech Stack
 
-![GitHub followers](https://img.shields.io/github/followers/bdlogicalerror?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=bdlogicalerror.bdlogicalerror)
+| Category | Technologies |
+|----------|------------|
+| **Backend** | PHP, Laravel, Python, REST APIs, WebSockets |
+| **Frontend** | Vue.js, JavaScript, HTML/CSS, Electron |
+| **Mobile** | Android (Java), Flutter |
+| **Desktop** | Tauri v2 + Rust |
+| **Database** | MySQL, PostgreSQL, SQLite |
+| **Infra** | Docker, Linux, VPN, CI/CD |
+| **Tools** | Git, Telegram Bots, Web Scraping, Automation |
 
+## 🔭 Currently
+- Building automation systems & security tools
+- Full-stack development with Laravel + Vue
+- Exploring Rust & Tauri for desktop apps
 
-## Skills
-- 👨‍💻 Dart, TypeScript, JavaScript,Dart, PHP, Python
-- 🚀 Flutter, React Native
-- ⚙️ React, Svelte, Vue, Laravel, Ardunio, Flask, Symphony, CI
-- 👁️ SASS, CSS, Stylus, Tailwind Css,BootStrap,Vuetify
-- 💽 MySQL, SQL, Mongo, Influx DB
-- 🚢 Docker
-- 🐧 Linux Server administration
-- 🔥 Internet of Things
+## 📫 Reach me
+- GitHub: [@bdlogicalerror](https://github.com/bdlogicalerror)
+- Email: bdlogicalerror@gmail.com
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=bdlogicalerror&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=bdlogicalerror&theme=dark&hide_border=true" width = 400>
-</p>
-
-
-```php
-<?php
-
-namespace Mahmudul;
-
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'ByteWix',
-                'position' => 'Founder'         
-            ]
-        ];
-    }
-
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Dart::class,
-            Flutter::class,
-            Php::class,
-            Javascript::class,
-            Typescript::class,
-            Laravel::class,
-            Python::class,
-            CPP::class,
-            Vuejs::class,
-            Nuxtjs::class,
-            IoT::class,
-            Flutter::class,
-            TailwindCss::class,
-            Docker::class,
-            Aws::class,
-        ];
-    }
-
-    public function getFutureGoal(): string
-    {
-        return 'To contribute to open source.';
-    }
-}
-```
-
-
-  <img src="https://activity-graph.herokuapp.com/graph?username=bdlogicalerror&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+*"Technology enthusiast who loves solving problems through code."*
