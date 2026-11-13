@@ -1,28 +1,31 @@
 # 👋 Hi, I'm Mahmudul Hasan
 
-**Full-Stack Developer | Laravel + Vue.js + Python | Automation & APIs**
+**AI Evaluation & Systems Engineer | LLM Evaluation · RLHF · Multi-Agent Systems | Full-Stack (Laravel · React · Python · Go)**
 
-📍 Dhaka, Bangladesh | 🚀 Building since 2016 | 🤝 Open to remote opportunities
+📍 Dhaka, Bangladesh | 🚀 Building since 2009 | 🤝 Open to remote opportunities (full US/EU timezone overlap)
+
+## 🔭 Currently
+- **Frontier LLM evaluation & model quality** at Mercor — authoring and auditing technical tasks across cybersecurity, quantitative finance, cloud (K8s), and software engineering domains
+- **Autonomous multi-agent harnesses** — subagent fleets, self-healing process supervision (launchd), Chrome CDP + macOS AX automation
+- **DVRify** — AI smart video surveillance SaaS (go2rtc WebRTC, person/face detection, pgvector)
+- **IoT & embedded** — RP2040 USB HID, ESP32-C3, LoRa SX1278, Apple Find My
 
 ## 🛠 Tech Stack
 
 | Category | Technologies |
 |----------|------------|
-| **Backend** | PHP, Laravel, Python, REST APIs, WebSockets |
-| **Frontend** | Vue.js, JavaScript, HTML/CSS, Electron |
-| **Mobile** | Android (Java), Flutter |
+| **AI/LLM** | LLM Evaluation, RLHF, Prompt Engineering, MCP, RAG (pgvector) |
+| **Backend** | Python, FastAPI, Laravel/PHP, Go, Node.js, REST APIs, WebSockets |
+| **Frontend** | React, Next.js, Vue.js, TypeScript |
+| **Mobile** | React Native, Flutter |
 | **Desktop** | Tauri v2 + Rust |
-| **Database** | MySQL, PostgreSQL, SQLite |
-| **Infra** | Docker, Linux, VPN, CI/CD |
-| **Tools** | Git, Telegram Bots, Web Scraping, Automation |
-
-## 🔭 Currently
-- Building automation systems & security tools
-- Full-stack development with Laravel + Vue
-- Exploring Rust & Tauri for desktop apps
+| **Data** | PostgreSQL + pgvector, MySQL, SQLite, Redis |
+| **Infra** | Docker, Kubernetes, Linux, Cloudflare, CI/CD |
+| **Embedded** | C/C++, RP2040, ESP32/ESP8266, LoRa |
 
 ## 📫 Reach me
-- GitHub: [@bdlogicalerror](https://github.com/bdlogicalerror)
-- Email: bdlogicalerror@gmail.com
+- LinkedIn: [in/bdlogicalerror](https://linkedin.com/in/bdlogicalerror)
+- Portfolio: [bdlogicalerror.github.io](https://bdlogicalerror.github.io)
+- Email: [mahmudul8296@gmail.com](mailto:mahmudul8296@gmail.com)
 
-*"Technology enthusiast who loves solving problems through code."*
+*"From Win32 in 2009 to frontier-model evaluation — still love solving problems through code."*
